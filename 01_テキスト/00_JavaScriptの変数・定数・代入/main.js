@@ -28,4 +28,4 @@ console.log(teisu) // => 42
 
 // 複数の単語を組み合わせるときは、ふたつめ以降の単語の最初の文字を大文字にしてくっつけることが多い
 // このような書き方をキャメルケースという（大文字がキャメル＝ラクダのこぶにみえることから）
-let camelCase // camel + case
+let camelCase // camel + Case
